@@ -29,13 +29,9 @@ cffi==1.14.0
 chardet==3.0.4
 click==7.1.2
 
-clyent==1.2.2
+
 colorama==0.4.3
 comtypes==1.1.7
-conda==4.9.0
-conda-build==3.18.11
-conda-package-handling==1.7.0
-conda-verify==3.4.2
 constantly==15.1.0
 contextlib2==0.6.0.post1
 cryptography==2.9.2
@@ -86,22 +82,19 @@ jupyterlab==2.1.5
 kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
 libarchive-c==2.9
-llvmlite==0.33.0+1.g022ab0f
+
 locket==0.2.0
 
 MarkupSafe==1.1.1
 mccabe==0.6.1
-menuinst==1.4.16
+
 mistune==0.8.4
-mkl-fft==1.1.0
-mkl-random==1.1.1
-mkl-service==2.3.0
+
 mock==4.0.2
 more-itertools==8.4.0
 mpmath==1.1.0
 msgpack==1.0.0
 multipledispatch==0.6.0
-navigator-updater==0.2.1
 nbconvert==5.6.1
 nbformat==5.0.7
 nose==1.3.7
@@ -149,7 +142,7 @@ Pygments==2.6.1
 PyHamcrest==2.0.2
 pylint @ file:///C:/ci/pylint_1592482039483/work
 PyNaCl @ file:///C:/ci/pynacl_1595000047588/work
-pyodbc===4.0.0-unsupported
+
 pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
 pyparsing==2.4.7
 pyreadline==2.1
@@ -181,7 +174,6 @@ Send2Trash==1.5.0
 service-identity==18.1.0
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
-sip==4.19.13
 six==1.15.0
 snowballstemmer==2.0.0
 sortedcollections==1.2.1
