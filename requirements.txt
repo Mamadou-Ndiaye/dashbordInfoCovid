@@ -106,10 +106,10 @@ numpy==1.18.5
 olefile==0.46
 
 packaging==20.4
-pandas @ file:///C:/ci/pandas_1592833613419/work
+
 pandocfilters==1.4.2
 paramiko==2.7.1
-parsel @ file:///home/conda/feedstock_root/build_artifacts/parsel_1591122878042/work
+
 parso==0.7.0
 partd==1.1.0
 path==13.1.0
@@ -119,7 +119,7 @@ patsy==0.5.1
 pep8==1.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow @ file:///C:/ci/pillow_1594298230227/work
+
 pipenv==2020.11.4
 pkginfo==1.5.0.1
 pluggy==0.13.1
@@ -128,30 +128,25 @@ prometheus-client==0.8.0
 prompt-toolkit==3.0.5
 Protego==0.1.16
 psutil==5.7.0
-py @ file:///tmp/build/80754af9/py_1593446248552/work
+
 pyasn1==0.4.8
 pyasn1-modules==0.2.7
 pycodestyle==2.6.0
 pycosat==0.6.3
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+
 pycurl==7.43.0.5
 PyDispatcher==2.0.5
-pydocstyle @ file:///tmp/build/80754af9/pydocstyle_1592848020240/work
+
 pyflakes==2.2.0
 Pygments==2.6.1
 PyHamcrest==2.0.2
-pylint @ file:///C:/ci/pylint_1592482039483/work
-PyNaCl @ file:///C:/ci/pynacl_1595000047588/work
-
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
 pyparsing==2.4.7
 pyreadline==2.1
 pyrsistent==0.16.0
 PySocks==1.7.1
 pytest==5.4.3
 python-dateutil==2.8.1
-python-jsonrpc-server @ file:///tmp/build/80754af9/python-jsonrpc-server_1594397536060/work
-python-language-server @ file:///C:/ci/python-language-server_1594162130238/work
+
 pytz==2020.1
 PyWavelets==1.1.1
 pywin32==227
